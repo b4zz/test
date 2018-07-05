@@ -1,0 +1,215 @@
+Main data
+Parameter	Value
+Brand	VOLKSWAGEN
+Model	PASSAT ESTATE BLUEMOTION TECHNOLOGY HIGHLINE
+VIN	WVWZZZ3CZFE477091
+Check digit	Not used
+Sales id	3G545Y
+Permanent link	http://carinfo.kiev.ua/cars/vin/volkswagen/vin_check?su=2gqd2_wpfyan
+Production date	2015-03-16
+Model year	2015
+Engine code	CRLB (TDI CR)
+Engine volume, L	2.00
+Number of cylinders	4
+Power, KW	110
+Power, PS	150
+Colour of body	2T (DEEP BLACK: deep black pearl effect)
+Trim	TO
+Gearbox code	PZN (6A)
+Country of sale	000 ()
+Custom options
+Parameter	Value
+E0A	Special editions: No special edition
+1PA	Lockable wheel bolts: Standard wheel bolts
+7ZD	Vehicle class differentiation units/platform components: Vehicle class differentiation -3G0-
+0P0	Exhaust tailpipe: Rear exhaust tailpipe (standard)
+UG6	Hill start assist: Hill hold control
+7MM	Emissions standard: Emission standard EU6 plus
+1D0	Trailer hitch: Without trailer hitch
+4UF	Airbag: Driver's and front passenger air bag with front passenger air bag deactivation
+1E0	Activated carbon canister: Without activated charcoal canister
+8ZH	Antennas: Antenna for AM/FM reception, "diversity"
+6XW	Exterior mirror setting: Exterior mirrors: automatically dimming, electrically foldable/adjustable, separately heated
+EA0	Follow-on warranty: Without subsequent warranty
+5SL	Left exterior mirror: Left exterior mirror: aspherical
+GM1	Electronic engine sound measures: Standard outside sound
+5RQ	Right exterior mirror: Right exterior mirror: convex
+0K0	Alternative drive system: Without alternative drive module
+1X0	Drive layout: Front wheel drive
+9WT	"Multimedia", video/DVD/notebook connection: Mirror Link
+A8F	Equipment levels: Sports equipment
+6K3	Area monitoring systems: Front Assist incl. city automatic emergency braking for ACC low
+1KU	Brake type in rear: Disc brakes, rear
+J0B	Batteries: 520 A (92 Ah) battery
+1ZA	Brake type, front: Disc brakes, front
+4M6	Beverage holders: Cup holder
+NY0	Battery/alternator capacity: Standard battery/alternator capacity
+B0A	Component part sets with country-specific design requirements: Component parts set without country-specific design requirement
+1S3	Tool kit and jack: Tool kit
+1AT	Brake systems: Electronic stabilization program (ESP)
+4V0	Front passenger seat control: Without front passenger seat adjustment from the rear
+0VC	Owner's manuals: Information kit in German
+9Z3	Operating voltage: Operating voltage 12 V plus 230 inverter
+9T1	Heated washer nozzles: Heated washer nozzles, front
+77G	CD ROM/DVD/SD card: Data storage device for EU, integrated
+2H0	Charism: Without "drive select"
+QJ3	Chrome package: Chrome package (type 2)
+C39	General operating permit, alterations: Operating permit, alteration
+3S1	Roof rails/roof load rack: Bright roof rails
+3FA	Roof insert/convertible top: Without roof insert (standard roof)
+1JA	Suspension system in rear: Rear shock absorption, basic design 1
+G01	Suspension system in front: Front shock absorption
+1Y0	Differential lock: Without differential lock
+2G5	Insert for the filling up of unleaded fuel/fuel type: Filler neck module 1 without insert
+EF0	ECO function for driving profiles and Drive select: Without ECO function
+0ES	Installation differentiation for vehicle components: Installation differentiation for transmission DQ250 vehicle components
+7AA	Theft protection system: Electronic vehicle immobilization device
+5MD	Inserts: Decorative aluminum inserts
+7M1	Scuff plates: Scuff plates in door apertures with metal inserts
+7X2	Park distance control: Park distance control, front and rear
+7W0	Extended safety system: Without extended safety system
+UE4	Electric interface for external use: Electric interface for external use AUX-IN and USB
+0FA	Manufacturing sequence differentiation: Standard manufacturing sequence
+6A0	Fire extinguishers: Without fire extinguisher
+VL3	Pedestrian protection: Extended and proactive pedestrian protection
+VF0	Pedal cluster: Standard pedal cluster
+8K3	Headlight control: Separate daytime running lights with low beam assistant and "Coming Home" function
+UH2	Parking brake: Parking brake
+7G0	Vehicle tracing system: Without preparation for VTS (vehicle tracking system)
+F0A	Vehicle specifications: No special purpose vehicle, standard equipment
+8GU	Alternators: Alternator 140 A
+0G7	Transmission types/gearshift mechanisms: Tiptronic
+0YC	Weight category rear axle: Weight range 3 installation control only, no requirement forecast
+L34	Weight category front axle: Suspension range 34 installation control only, no requirement forecast
+TR1	Base engine: 4-cylinder diesel engine 2.0 L unit 04L.A
+4U0	Luggage net/pocket on backrest(s): Without luggage nets/pockets on backrests
+3U7	Luggage compartment cover: Luggage compartment cover
+6M3	Tie down straps/net/pocket: Trunk net
+8T8	Cruise control system: Adaptive Cruise Control (w/ "Follow-to-Stop") and Speed Limiter
+VC0	Garage door opener: W/o remote-controlled garage door opener
+G1A	Transmission specifications: 6-speed automatic transmission
+5J0	Rear spoiler: Without rear spoiler
+6NA	Molding roof liner: Unsplit molding roof liner
+3NT	Rear seats: Rear seat bench unsplit, backrest split folding (three pieces) with center armrest
+KH7	Heating and air conditioning system: Climatronic (3-zone) with rear air conditioning control panel
+8IU	Headlamps: LED headlamps with variable light distribution
+KS0	Head-up display: Without head-up display
+20A	Hybrid drive: Without electric motor ( hybrid )
+FC0	Customized installation: Without customized installation
+6T1	Interior light in footwell: Interior light in footwell
+U5A	Instrument clusters: Instrument insert, km/h speedometer
+4L6	Breakaway interior rearview mirror: Breakaway interior rear view mirror, automatically dimming
+K8D	Body style: Station Wagon Variant/Avant
+QK1	Camera/distance sensor: Camera and/or distance sensor (driver assistance system)
+6SH	Luggage compartment floor covering: Rubber trunk floor covering
+0M4	Fuel tank capacity: Fuel tank
+4H3	Child safety lock: Manual child lock
+QA0	Child seats: Without child seat
+0Y1	Climatic zones: Standard climatic zones
+QR9	Compass/road sign display: With traffic signs recognition
+4D0	Seat ventilation/massage seat: Without seat ventilation/massage seat
+3T2	Rear head restraints: Three rear headrests
+5ZC	Head restraints: Headrests for front seats (x-adjustment)
+1Z0	Fuel quantity for initial filling: Initial standard fuel filling
+A60	Tire categorization: Category 0
+0F5	Fuel systems: Fuel system for diesel engine
+5C0	Body measures: Without special body measures
+KA6	Camera systems/accident sensors: With front and rear view camera system and two side cameras
+KK1	Refrigerant: Refrigerant R134a
+6P1	Rear license plate carrier: Rear license plate carrier (ECE)
+6W1	Front license plate carrier: Front license plate carrier (large)
+5K7	Paint preservative/transit coating: Transport protection film (minimum protection) with additional transport protection measures
+3GA	Rear luggage/load compartment floor: Without cargo area
+QQ8	Light package (lighting): Interior ambient lighting, type 1
+ES0	Vehicle inlet: Without vehicle inlet
+L0L	Steering system arrangement: Left-hand drive vehicle
+8S6	Reading light: Two reading lights front
+1N3	Steering: Speed-related variable steering assist (Servotronic)
+3H0	Backrest release: Without backrest release for front seats
+8G3	Light control systems: Masked high beam
+EV0	Charging cable: Without charging cable
+2P1	Loading edge protection: Plastic trunk sill protection
+8I2	Lumbar support: Electrically adjustable lumbar support for left front seat with massage feature
+1XX	Steering wheels: Leather trimmed multi-function sports steering wheel w/ Tiptronic
+AV1	Driving on the left/on the right: Driving on the right
+9VC	Speaker installation: Digital sound package plus subwoofer and central speaker
+8Q5	Headlight range control: Headlight-range adjustment, automatic/ dynamic with dynamic bending light (AFS 1)
+6E3	Center armrest: Front center armrest
+FM0	Versions: Basic equipment variant
+9S8	Multi-function display/trip computer: Multi-function display/on-board computer "FPK" (freely programmable instrument cluster)
+3D3	Center console: Center console
+EM1	Driver alert system: Rest Assist (drowsiness detection)
+8Z5	Engine cooling system: Not hot country
+DN4	Engine specifications: 4-cyl. turbo diesel engine 2.0 l/110 kW (4V) TDI common rail| b.engine T37/T6F TS1/TR1/T0P/T0N/T13/T29/TM4/TD1/TI9/T1I
+7UG	Navigation device: Navigation system - High
+8TB	Rear fog lamp: Rear fog light
+8WH	Front fog lamp/additional headlamp: Front fog lamp and cornering lamp
+EL3	Online services: Online service, with OCU, with head unitcoding, without engine immobilizer interconnection
+1NL	Wheel covers: Covers for alloy wheels
+F94	Wheels: Alloy wheels 7J x 17
+I8H	Radios: High radio (Gen2)
+9JA	Smoker's/non-smoker's package: Non-smoking package
+ER1	Regional code for radio: Regional code " ECE " for radio
+7K1	Direct tire pressure monitoring system: Tire pressure warning light
+H5R	Tires: Tires 215/55 R17 94 V super-optimized rolling resistance
+V0A	Tire suppliers: Tires w/o specification of tire brand
+1G0	Spare wheel/breakdown kit: Without spare wheel
+0B4	Wheelbases: Wheelbase
+3QT	Restraint systems, front: 3-point seat belts with tensioner and height adjustment, front
+PW9	Parking heater and ventilation with radio remote control and timer
+WBH	Passat "Technology" - France -
+WF2	Exclusive package for BlueMotion TDI Finland
+4X3	Side airbag: Side air bag front with curtain air bag
+6Q2	Gearshift knob/handle: Leather gearshift knob/handle
+0SB	Special labels/plates: Labels/plates in German
+8SP	Rear combination lamps: LED taillamp assembly
+4E6	Lock operation for tailgate/trunk lid: Sensor-controlled luggage compartment opening
+QI6	Service indicator: Service indicator 30,000 km or 2 year ( variable )
+9P9	Seat belt check: Seat belt reminder, electric contact in the buckle, advanced safety equipment
+3ZB	Outer rear seat belts: 3-point seat belts, outer rear with ECE label
+3C7	Center rear seat belts: 3-point seat belt for center rear seat
+N7K	Seat trim covers: Alcantara/leather seat covering
+3PW	Seat adjustment: Man. height adjustm. f. front seats plus seat squab inclination a. depth adjustm. left, plus el. backrest adjustm. left
+4A3	Seat heater: Seat heater for front seats separately controlled
+7L6	Start-stop system/regenerative braking: Start/stop system with regenerative braking
+8Y1	Horns: Two-tone horn
+5XU	Sun visors: Sun visors with mirror, illuminated, extractable, airbag label on sun visor
+QH1	Audio-response system/voice control: Voice control
+79D	Lane change assist/lane keeping system: Side Assist, Lane Assist (Heading Control Assist), Traffic Jam Assist and Emergency Assist
+VW0	Side and rear windows: Side and rear windows
+4B4	Protective side molding: Protective side molding
+3Y0	Roll-up sun screen for rear and side windows: Without roll-up sun screen
+7B3	Socket: 12-volt socket(s)
+2JR	Bumpers: Comfort bumpers
+7U0	Starter: Standard engine starter
+8X1	Headlamp washer system: Headlight washer system
+8N6	Windshield wiper intermittent control/ light/rain sensor: Windshield wiper intermittent control with light/rain sensor
+3M0	Special registration measures: Without special measures
+0PP	Nameplate set: Nameplate set "BlueMotion"
+1Q2	Mass damper for steering wheels: Mass damper for steering wheel, 36 Hz
+4I3	Door and lid locking system: Central locking system "Keyless Entry" without deadlock
+B01	Type approval countries/countries with special requirements: Type approval Germany
+5D1	Carrier frequency for radio remote control: Carrier frequency 433.92 MHz-434.42 Mhz
+3CX	Partition: Net partition
+3LJ	Door and side trim panels: Door and side trim panel in foam film, insert in leatherette
+QV3	TV reception/digital radio reception: Digital radio reception
+1VG	Installation parts for engine (engine mount system): Installation parts for four-cylinder engine
+1SA	Front underbody guard: Without additional front underbody guard
+1EX	Identification plates: Special identification plate for EC for M1 passenger vehicle
+2A0	Delivery equipment: Without delivery equipment
+1T3	First aid kit / warning triangle: First aid kit with warning triangle
+9D0	Preparation for two-way radio installation: Without preparation for two-way radio installation
+Q4H	Front seats: Comfort sports seats, front
+9F0	Preparation for sound combination for rotating beacon: Without sound combination for rotating emergency light and radio antenna preparation
+9ZK	Telephone / telematics: Telephony (rSAP)
+9TK	Additional warning lights: Additional LED warning light (door area) front and rear
+QG1	Service interval prolongation: Service interval prolongation
+7E0	Heat accumulator system/auxiliary heater: W/o heat accumulator/auxiliary heating
+4GF	Windshield glass type: Windshield in heat-insulating glass
+8FC	Second battery/battery installation: Installation of SLI battery in rear, without second battery
+2WA	Additional tires (snow tires): Without additional tires
+0TD	Floor mats: Front and rear floor mats
+4ZB	Decorative trims: Bright moldings
+3B4	Additional child seat anchors: Child seat anchor for child seat system ISOFIX
+9M9	Auxiliary heater: Parking heater with radio remote control
+UP0	Clocks: Analog clock
